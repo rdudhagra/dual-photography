@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+*.pkl
+*.jpg
+*.mp4
+data
+.vscode/
+__pycache__/
+venv/
+*.ipynb
